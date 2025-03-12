@@ -3,7 +3,7 @@
 📎 **Demo 網址**: [https://ntnu.work.gd](https://ntnu.work.gd)
 
 ![桌機版 UI](./demo/pc_fake.png)
-![手機版 UI](./demo/phone_fake.jpg)
+<!--![手機版 UI](./demo/phone_fake.jpg) -->
 
 ## 🧠 專案簡介
 
